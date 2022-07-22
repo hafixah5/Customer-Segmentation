@@ -18,7 +18,7 @@ A sneak peek of the model developed is the figure below:
 ![model architecture.png](https://github.com/hafixah5/Customer-Segmentation/blob/main/photos/model%20architecture.png)
 
 ##  :card_index_dividers:  Project Files
-:point_right: train.csv
+:point_right: Train.csv
 
 :point_right: customer_segmentation_model.py
 
@@ -26,8 +26,13 @@ A sneak peek of the model developed is the figure below:
 
 :point_right: model.h5
 
-:point_right: pickle_files folder that contain encoded features
+:point_right: pickle_files folder that contains encoded features
 
+:point_right: photos folder which contains the following images:
+- classification report
+- epoch accuracy and epoch loss (from tensorboard)
+- model accuracy and model loss (plotted in python)
+- model architecture
 
 ##  :rocket:  Project Usage
 1) This project is done using Python 3.8 on Spyder.

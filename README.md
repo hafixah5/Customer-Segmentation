@@ -13,9 +13,13 @@ This project aims to create a deep learning model to predict if a customer would
 For this objective, the bank carried out a campaign to collect customers' details as well as their needs and satisfactions.
 The data collected can be retrieved in the train.csv file in the repo.
 
-A sneak peek of the model developed is the figure below:
+This model achieved a 90% accuracy in determining the customers' deposit commitment to the bank.
+
+A sneak peek of the model developed and model report are as below:
 
 ![model architecture.png](https://github.com/hafixah5/Customer-Segmentation/blob/main/photos/model%20architecture.png)
+
+![classification report](https://github.com/hafixah5/Customer-Segmentation/blob/main/photos/classification%20report.png)
 
 ##  :card_index_dividers:  Project Files
 :point_right: Train.csv

@@ -14,7 +14,8 @@ For this objective, the bank carried out a campaign to collect customers' detail
 The data collected can be retrieved in the train.csv file in the repo.
 
 A sneak peek of the model developed is the figure below:
-![model](model_customersegmentation\model.png)
+
+![model architecture.png](https://github.com/hafixah5/Customer-Segmentation/blob/main/photos/model%20architecture.png)
 
 ##  :card_index_dividers:  Project Files
 :point_right: train.csv
